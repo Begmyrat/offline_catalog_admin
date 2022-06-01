@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1094987249521",
+    "project_id": "tagtabazar-932ac",
+    "storage_bucket": "tagtabazar-932ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094987249521:android:7f9f461b2a3bf012f7a8d0",
+        "android_client_info": {
+          "package_name": "com.example.tagtabazaradmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094987249521-7gp113rdmd0o3r0t2dftg0fdgj9oc993.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjqgPn5N0RNIADdDXaxd_AYLRcdWtoTOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094987249521-7gp113rdmd0o3r0t2dftg0fdgj9oc993.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094987249521:android:afda0ede82558220f7a8d0",
+        "android_client_info": {
+          "package_name": "com.fabrika.tagtabazar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094987249521-7gp113rdmd0o3r0t2dftg0fdgj9oc993.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjqgPn5N0RNIADdDXaxd_AYLRcdWtoTOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094987249521-7gp113rdmd0o3r0t2dftg0fdgj9oc993.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
